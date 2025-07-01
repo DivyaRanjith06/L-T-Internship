@@ -1,4 +1,4 @@
-Title: Smart Energy-Saving Room Using Occupancy Count + Ambient Light Sensing
+Title: Smart Energy-Saving Room Using Occupancy Count + Ambient Light Sensing (Real Time Occupancy Detection)
 
 Problem Statement: Electricity is often wasted when lights and fans remain switched ON in unoccupied rooms or during daylight hours. Conventional systems relying on motion detection (PIR sensors) are not always reliable, especially when occupants are stationary. This leads to significant energy loss in homes, offices, and classrooms. There is a need for an intelligent system that not only detects room occupancy accurately but also considers ambient light levels to optimize energy usage.
 
